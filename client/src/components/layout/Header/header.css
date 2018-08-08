@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+  color: #eee;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #222;
+  color: #eee;
+}
+
+.button {
+  padding: 10px;
+  background: #eee;
+  color: #222;
+  cursor: pointer;
+  border-radius: 5px;
+}
